@@ -1,0 +1,32 @@
+
+.label{
+  color: green;
+  font-weight: bold;
+}
+
+.value{
+  color: red;
+  font-weight: bold;
+}
+
+.mt-20{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.size-icon{
+  font-size: 10rem;
+  color: crimson;
+}
+
+.text-size{
+  font-size: 2rem;
+  font-weight: bold;
+  color: black;
+}
+
+.title{
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: normal;
+}
